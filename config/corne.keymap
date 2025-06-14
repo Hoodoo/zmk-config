@@ -68,8 +68,8 @@
    &kp H &mt RIGHT_CONTROL J  &mt RIGHT_SHIFT K &mt LEFT_ALT L   &mt LEFT_GUI SEMI &kp SQT
    &kp BACKSLASH &kp Z &kp X &kp C &kp V &kp B
    &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp MINUS
-                  &lt 2 ESC &mt RIGHT_ALT SPACE  &lt 1 RET
-		  &lt 2 CAPS &mt RIGHT_ALT BACKSPACE  &lt 1 DEL
+                  &lt 1 ESC &mt RIGHT_ALT SPACE  &lt 2 RET
+		  &lt 1 CAPS &mt RIGHT_ALT BACKSPACE  &lt 2 DEL
                         >;
                 };
                 lower_layer {
